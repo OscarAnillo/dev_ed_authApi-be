@@ -1,0 +1,11 @@
+1- Introduction
+2 - Setting up express
+3 - Connecting to a database
+4 - .env files
+5 - Creating models in mongoose
+6 - Registering a user
+7 - Validation with Joi
+8 - Hashing passwords
+9 - Setting up the login route
+10 - Adding jsonwebtokens to our auth
+11 - Creating private routes with jwt

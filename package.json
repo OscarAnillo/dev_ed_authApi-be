@@ -1,0 +1,23 @@
+{
+  "name": "api-auth",
+  "version": "1.0.0",
+  "description": "This is an auth backend app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Anillo",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "joi": "^17.9.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22",
+    "npm": "^9.6.4"
+  }
+}
